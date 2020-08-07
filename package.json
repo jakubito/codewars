@@ -1,0 +1,11 @@
+{
+  "name": "codewars",
+  "author": "Jakub Dobes <dobes.jakub@gmail.com>",
+  "private": true,
+  "repository": "github:jakubito/codewars",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0"
+  }
+}
